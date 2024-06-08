@@ -1,9 +1,14 @@
 # Assingment 
 
-## Screenshot of table in admin panel
+```bash
+  Screenshot of table in admin panel
+```
 ![](admin-dashboard.gif)
 
-## Screenshot of POST
-
-## Screenshot of GET
+```bash
+  Screenshot of POST
+```
+```bash
+  Screenshot of GET
+```
 
